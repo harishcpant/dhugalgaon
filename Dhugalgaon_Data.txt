@@ -1,0 +1,41 @@
+https://winscp.net/eng/docs/ftp_modes
+-------------Mumbai ---------------------
+65.2.118.5 [Public IP]
+
+----Putty Commands for ubuntu server setup-----
+1. sudo su
+2. ubuntu@ec2-65-2-118-5.ap-south-1.compute.amazonaws.com
+3. bash vst-install.sh --force
+4. Y
+5. harishcpant
+6. ec2-65-2-118-5.ap-south-1.compute.amazonaws.com
+
+----Vista Control pannel credentials--------------
+	https://65.2.118.5:8083
+	username: admin
+	password: ABB4JehgsM
+
+	Vesta FTP : admin_harishcpant / Vesta@2021
+
+-----Domain name-----------------------------------------
+https://www.freenom.com/
+harishcpant@gmail.com
+Freenom@2021
+------aws.amazon.com----------
+harishcpant@gmail.com
+Aws@2021
+---------domain name--
+dhugalgaon.tk
+Download the https://filezilla-project.org/ 
+
+------------ Ohio ------------------------
+Host Name : ubuntu@ec2-3-131-29-122.us-east-2.compute.amazonaws.com
+3.131.29.122 [Public IP]
+
+
+
+PAIN002 - Historical issue
+
+TM tool issue - 
+
+fraud reject - status issue
